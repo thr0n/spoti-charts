@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5nVbdvU60t7C0JBruxsS26"
+      },
+      "followers": {
+        "href": null,
+        "total": 51914
+      },
+      "genres": [
+        "german alternative rap",
+        "german hip hop",
+        "german indie",
+        "german pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5nVbdvU60t7C0JBruxsS26",
+      "id": "5nVbdvU60t7C0JBruxsS26",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6a51b746789dd9701363e411",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746a51b746789dd9701363e411",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786a51b746789dd9701363e411",
+          "width": 160
+        }
+      ],
+      "name": "Maeckes",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:5nVbdvU60t7C0JBruxsS26"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+      },
+      "followers": {
+        "href": null,
+        "total": 11760
+      },
+      "genres": [
+        "chillhop",
+        "lo-fi jazzhop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3VXe7BcibISROhxRdPuRNL",
+      "id": "3VXe7BcibISROhxRdPuRNL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2c7a8cec93dadf771bf9fc44",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742c7a8cec93dadf771bf9fc44",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782c7a8cec93dadf771bf9fc44",
+          "width": 160
+        }
+      ],
+      "name": "Zmeyev",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:3VXe7BcibISROhxRdPuRNL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+      },
+      "followers": {
+        "href": null,
+        "total": 227615
+      },
+      "genres": [
+        "german pop",
+        "german rock",
+        "hamburg hip hop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4KivBMgSnZ7hCDfPm46fKc",
+      "id": "4KivBMgSnZ7hCDfPm46fKc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba3d11484e5b174f3cdc5e968",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a3d11484e5b174f3cdc5e968",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a3d11484e5b174f3cdc5e968",
+          "width": 160
+        }
+      ],
+      "name": "Jan Delay",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:4KivBMgSnZ7hCDfPm46fKc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+      },
+      "followers": {
+        "href": null,
+        "total": 641022
+      },
+      "genres": [
+        "indie soul",
+        "uk contemporary r&b"
+      ],
+      "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+      "id": "59oA5WbbQvomJz2BuRG071",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8bb1c41fc079f9df4b472a2b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748bb1c41fc079f9df4b472a2b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788bb1c41fc079f9df4b472a2b",
+          "width": 160
+        }
+      ],
+      "name": "Jungle",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/61qDotnjM0jnY5lkfOP7ve"
+      },
+      "followers": {
+        "href": null,
+        "total": 148389
+      },
+      "genres": [
+        "hoerspiel",
+        "kleine hoerspiel"
+      ],
+      "href": "https://api.spotify.com/v1/artists/61qDotnjM0jnY5lkfOP7ve",
+      "id": "61qDotnjM0jnY5lkfOP7ve",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb332bec55998b0124ed7c362b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174332bec55998b0124ed7c362b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178332bec55998b0124ed7c362b",
+          "width": 160
+        }
+      ],
+      "name": "TKKG",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:61qDotnjM0jnY5lkfOP7ve"
+    }
+  ],
+  "total": 50,
+  "limit": 5,
+  "offset": 0,
+  "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists?limit=5&offset=0&time_range=short_term",
+  "next": "https://api.spotify.com/v1/me/top/artists?limit=5&offset=5&time_range=short_term"
+}
